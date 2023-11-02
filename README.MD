@@ -1,7 +1,8 @@
 # Minotaur Battle
 
 Minotaur Battle es un juego 2D desarrollado en Python utilizando la biblioteca Pygame, creado para abordar los desafíos técnicos como parte de la aplicación a KodeLand.
-Descripción
+
+#Descripción
 
 El juego cuenta con un modo de supervivencia en el que el jugador debe derrotar enemigos que aparecen cada 10 segundos durante un periodo de 3 minutos. Al derrotar a cada enemigo, se suman 10 puntos al puntaje del jugador. Sin embargo, estos puntos pueden perderse si el jugador es atacado por un enemigo.
 ## Controles
